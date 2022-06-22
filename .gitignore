@@ -22,6 +22,9 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# Visual Studio cache/options directory
+.vs/
+
 # Files built by Visual Studio
 *_i.c
 *_p.c
